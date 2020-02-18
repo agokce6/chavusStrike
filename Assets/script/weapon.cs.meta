@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 83232b019cac12d46bd65ccae001132d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firePoint: {instanceID: 0}
+  - bulletPrefab: {fileID: 4017484368784126056, guid: 03eef768f9dcdd7478db87cd84a1de5b,
+      type: 3}
+  - animato: {instanceID: 0}
+  - weaponImg: {instanceID: 0}
+  - p90: {fileID: 2800000, guid: 49fc4daf10290b74b89e6b7f3397749f, type: 3}
+  - ump_45: {fileID: 2800000, guid: facffea0866d6a44886ba091cd9b3f41, type: 3}
+  - m4_a4: {fileID: 2800000, guid: 279fb4efabcb75b4f9d931ff616e759e, type: 3}
+  - ak47: {fileID: 2800000, guid: 600c1a9bfec535344b1d27493b276736, type: 3}
+  - scar_20: {fileID: 2800000, guid: 98ec3c7f268960a4d9a64bfdc986edb7, type: 3}
+  - awp: {fileID: 2800000, guid: 17f934610c408034296954b398c56886, type: 3}
+  - deagle: {fileID: 2800000, guid: 99b6c63b7cd6ba347baff58892e3a7dd, type: 3}
+  - usp_8: {fileID: 2800000, guid: 896609635ac7c244b836d089bd56fe2f, type: 3}
+  - alayina: {fileID: 2800000, guid: 078bc7087bd0ad440983a1823b4d64b5, type: 3}
+  - knife: {fileID: 2800000, guid: 04db0726fc75f2e46ac674de73e877d3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
